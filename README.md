@@ -8,12 +8,12 @@ Nein, das ist er nicht
 Am 17. und 18. Dezember
 
 <!--- Falls ich da bin --->
-Ja, das ist er
+<!--- Ja, das ist er
 
 ![Happy](/images/happy.png)
 
 ## Wie lange ist Sebi in Tübingen?
-Bis zum XX.XX
+Bis zum XX.XX --->
 
 
 
