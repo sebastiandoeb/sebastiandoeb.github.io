@@ -5,7 +5,7 @@ Nein, das ist er nicht
 ![Frown](/images/frown.png)
 
 ## Wann ist Sebi wieder in Tübingen?
-Am 17. und 18. Dezember
+Ab dem 23. Dezember bis voraussichtlich dem 08. Januar.
 
 <!--- Falls ich da bin --->
 <!--- Ja, das ist er
